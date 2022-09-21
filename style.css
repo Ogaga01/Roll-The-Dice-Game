@@ -36,6 +36,18 @@ main {
   display: flex;
 }
 
+#div--1 {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+}
+
+#div--2 {
+  width: 50%;
+  display: flex;
+  flex-direction: column-reverse
+}
+
 .player {
   flex: 50%;
   padding: 9rem;
@@ -43,21 +55,24 @@ main {
   flex-direction: column;
   align-items: center;
   transition: all 0.75s;
+  width: 100%;
+  height: 22%;
 }
 
 /* ELEMENTS */
 .name {
   position: relative;
-  font-size: 4rem;
+  font-size: 2rem;
   text-transform: uppercase;
-  letter-spacing: 1px;
-  word-spacing: 2px;
+  letter-spacing: .5px;
+  word-spacing: 1px;
   font-weight: 300;
-  margin-bottom: 1rem;
+  margin-bottom: .5rem;
+  margin-top: -50px;
 }
 
 .score {
-  font-size: 8rem;
+  font-size: 4rem;
   font-weight: 300;
   color: #c7365f;
   margin-bottom: auto;
@@ -82,8 +97,7 @@ main {
   opacity: 0.8;
   border-radius: 9px;
   color: #fff;
-  width: 65%;
-  padding: 2rem;
+  padding: 1rem;
   text-align: center;
   transition: all 0.75s;
 }
