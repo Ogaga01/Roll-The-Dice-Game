@@ -19,7 +19,7 @@ Rules:
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://ogaga01.github.io/Roll-The-Dice-Game/)
 
 
 ## Getting Started
