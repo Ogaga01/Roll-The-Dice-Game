@@ -1,15 +1,21 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Roll The Dice
 
-> Description the project.
+> Play a game with your friends 🕹.
+Roll the dice 🎲 till you get 100 points and win the game 🥇🏆
+Rules: 
+- Dont get a 1 unless score is reset 😥
+- Hold your score and save it before you get a 1
+- First teammate to get 100 points wins the game
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- JavaScript
+- Linters
 
 ## Live Demo (if available)
 
@@ -25,8 +31,10 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+- VScode
 
 ### Setup
+Clone this repository (https://github.com/Ogaga01/Roll-The-Dice-Game.gitm)
 
 ### Install
 
@@ -42,15 +50,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Ogaga Iyara](https://github.com/Ogaga01)
+- Twitter: [Ogaga Iyara](https://twitter.com/i_ogaga_n)
+- LinkedIn: [Ogaga Iyara](https://linkedin.com/in/Ogaga-Iyara)
 
 ## 🤝 Contributing
 
